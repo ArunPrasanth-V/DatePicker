@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Date Pick</string>
+        <string name="view_date"></string>
+</resources>
